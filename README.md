@@ -7,3 +7,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 Agrego mas info para ver los cambios
+estoy agregando cambios en mi maquina local
