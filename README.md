@@ -9,3 +9,4 @@ Pueden hacer lo que quieran...
 Agrego mas info para ver los cambios
 estoy agregando cambios en mi maquina local
 estos cambios son nuevos desde git hub 2
+ahora modifico mi readme desde mi maquina local
